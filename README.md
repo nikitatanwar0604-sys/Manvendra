@@ -49,15 +49,15 @@ Concept project for suppressing electromagnetic signals.
 
 📊 GitHub Analytics
 
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/></p>---
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANVENDRA &layout=compact&theme=tokyonight"/></p><p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/></p>---
 
 📈 GitHub Activity Graph
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/></p>---
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MANVENDRA &theme=tokyo-night"/></p>---
 
 🐍 Contribution Snake Animation
 
-<p align="center"><img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/></p>---
+<p align="center"><img src="https://raw.githubusercontent.com/MANVENDRA/MANVENDRA/output/github-contribution-grid-snake-dark.svg"/></p>---
 
 💻 Coding Mode
 
